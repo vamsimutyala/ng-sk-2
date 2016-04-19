@@ -1,6 +1,12 @@
 {
   "ambientDependencies": {
     "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#7de6c3dd94feaeb21f20054b9f30d5dabc5efabd",
-    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#5c182b9af717f73146399c2485f70f1e2ac0ff2b"
+    "jasmine": "github:DefinitelyTyped/DefinitelyTyped/jasmine/jasmine.d.ts#5c182b9af717f73146399c2485f70f1e2ac0ff2b",
+    "run-sequence": "github:DefinitelyTyped/DefinitelyTyped/run-sequence/run-sequence.d.ts#052725d74978d6b8d7c4ff537b5a3b21ee755a49"
+  },
+  "dependencies": {
+    "gulp": "registry:npm/gulp#3.8.0+20160211003958",
+    "moment": "registry:npm/moment#2.10.5+20160211003958",
+    "yargs": "registry:npm/yargs#3.31.0+20160316010718"
   }
 }
